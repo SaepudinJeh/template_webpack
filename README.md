@@ -8,7 +8,7 @@ yarn // yarn only
 ```
 
 # How to run
-```Ruby
+```json
 npm run dev //npm only
 yarn dev // yarn only
 ```
